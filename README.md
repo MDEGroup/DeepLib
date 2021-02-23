@@ -10,7 +10,7 @@ to build matrices, and use them to train deep neural networks, which have been s
 to forecast the next versions of the related libraries for an input project.
 
 <p align="center">
-<img src="https://github.com/MSR2021-DeepLib/DeepLib/blob/master/images/DeepLib.png" width="600">
+<img src="https://github.com/MDEGroup/DeepLib/blob/master/images/DeepLib.png" width="600">
 </p>
 
 ## Folder tree
