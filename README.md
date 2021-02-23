@@ -1,6 +1,6 @@
 # DeepLib 
 
-This repository provides the source code implementation of the tool and datasets used to perform evaluation for the following paper submitted to MSR 2021: 
+This repository provides the source code implementation of the tool and datasets used to perform evaluation for the following paper submitted to the Journal of Systems and Software: 
 
 DeepLib: Recommending Third-party Library Updates with Deep Neural Networks
 
