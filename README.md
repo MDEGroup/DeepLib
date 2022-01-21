@@ -1,8 +1,8 @@
 # DeepLib 
 
-This repository provides the source code implementation of the tool and datasets used to perform evaluation for the following paper submitted to the Journal of Systems and Software: 
+This repository provides the source code implementation of the tool and datasets used to perform evaluation for the following paper submitted to the Expert Systems with Applications Journal (ESWA): 
 
-DeepLib: Recommending Third-party Library Updates with Deep Neural Networks
+DeepLib: Machine Translation Techniques to Recommend Upgrades for Third-party Libraries
 
 ## Introduction
 We propose DeepLib, a novel approach to recommendation of an upgrade plan for software projects with respect to library usage. We mine migration history of projects
